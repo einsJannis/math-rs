@@ -1,3 +1,3 @@
-#![feature(maybe_uninit_uninit_array)]
+#![feature(array_zip)]
 
 mod vector;
